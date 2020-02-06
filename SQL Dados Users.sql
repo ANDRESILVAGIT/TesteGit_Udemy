@@ -4,3 +4,6 @@
 -- executem esse comando para não solicitar o preenchimento dos dados de usuários ao realizar qualquer alteração no cadastro de usuários.
 Update Unidades set NaoComunicaUsuarioOraculo = 1
 
+
+teste de alteações para tipos de codigos
+
